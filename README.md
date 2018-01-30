@@ -1,6 +1,6 @@
 # Hangman Node.js
 
-## Description
+## Overview
 Created a hangman game ran through Node.js and empowered using JavaScript constructors.
 * Additional feature: display a hangman graphic for each wrong letter guessed.
 
