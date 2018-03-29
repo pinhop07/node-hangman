@@ -24,8 +24,8 @@ Created a hangman game ran through Node.js and empowered using JavaScript constr
 * Visual Studio Code - Text Editor
 * Terminal/Git Bash
 
-## Authors
+### Copyright
 
-* **Paul Pinho** - *JS/Node.js* - [Paul Pinho](https://github.com/pinhop07)
+Paul Pinho © 2018. All Rights Reserved.
 
 
